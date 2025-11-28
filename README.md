@@ -17,5 +17,3 @@ Biến Win10/11 thành kính trắng đục trong suốt kiểu macOS Tahoe + Wi
 Star nếu đẹp ❤️ Fork nếu muốn mod màu khác (hồng/phấn/xanh mint?).  
 Cảm ơn ae! – Thằng lớp 4 approve :3
 
-## Stats
-Stars: [Sẽ bùng nổ] | Forks: [Chờ mày share] | Made with love in Vietnam 🇻🇳
