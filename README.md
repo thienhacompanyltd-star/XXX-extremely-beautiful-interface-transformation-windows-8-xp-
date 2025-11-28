@@ -1,4 +1,4 @@
-# XXX - Extremely Beautiful Windows 10 & 11 Transformation 🥛🔥
+# XXX - Extremely Beautiful Windows 8 & xp Transformation 🥛🔥
 
 **Làm bởi thằng lớp 4. Không tool. Chỉ .bat thuần. Aesthetic 2025 god tier.**
 
